@@ -14,7 +14,7 @@
     },
     "sass": {
       "version": "0.5.0",
-      "from": "sass@latest",
+      "from": "node_shrinkwrap\\sass-0.5.0.tar",
       "resolved": "./node_shrinkwrap/sass-0.5.0.tar"
     }
   }
