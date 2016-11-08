@@ -11,6 +11,11 @@
       "version": "3.1.1",
       "from": "jquery@latest",
       "resolved": "./node_shrinkwrap/jquery-3.1.1.tar"
+    },
+    "sass": {
+      "version": "0.5.0",
+      "from": "sass@latest",
+      "resolved": "./node_shrinkwrap/sass-0.5.0.tar"
     }
   }
 }
